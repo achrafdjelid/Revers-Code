@@ -75,7 +75,3 @@ main.exe
 ## Author
 
 **Achraf Djelid**
-
----
-
-*A beginner-friendly C programming exercise focused on loops, arithmetic operations, and number manipulation.*
